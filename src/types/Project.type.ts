@@ -7,9 +7,3 @@ export interface ProjectProps {
     githubUrl: string;
     liveUrl?: string;
 }
-
-export interface SkillProps {
-    name: string;
-    level: number;
-    category: 'frontend' | 'backend' | 'design' | 'tools';
-}
