@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/macos,vuejs,webstorm
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,vuejs,webstorm
+# Created by https://www.toptal.com/developers/gitignore/api/macos,webstorm,vuejs
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,webstorm,vuejs
 
 ### macOS ###
 # General
@@ -36,7 +36,6 @@ Temporary Items
 
 ### Vuejs ###
 # Recommended template: Node.gitignore
-
 node_modules/
 dist/
 npm-debug.log
@@ -155,4 +154,4 @@ fabric.properties
 # https://plugins.jetbrains.com/plugin/8053-azure-toolkit-for-intellij
 .idea/**/azureSettings.xml
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,vuejs,webstorm
+# End of https://www.toptal.com/developers/gitignore/api/macos,webstorm,vuejs
